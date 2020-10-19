@@ -27,10 +27,9 @@
 
     <h1>Blog posts:</h1>
     <ul>
-      <li><a href="./blog/repairing-rollerblades">Repairing Composite Rollerblade Cuff</a></li>
-      <li><a href="./blog/pruning-of-an-oak-tree">The Pruning of an Oak Tree</a></li>
-      <li><a href="./blog/ascent-of-mt-whitney">Our Ascent of Mt. Whitney</a></li>
-      <li><a href="./blog/buckets-for-john-muir-trail">Buckets (for John Muir Trail)</a></li>
+      {%- for post in posts -%}
+      <li><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></li>
+      {%- endfor -%}
       <!-- <li><a href="javascript:void(0)" target="_blank">Adventures in Costa Rica</a></li>
       <li><a href="javascript:void(0)" target="_blank">Finite State Automata</a></li>
       <li><a href="javascript:void(0)" target="_blank">Building a Bicycle</a></li>
