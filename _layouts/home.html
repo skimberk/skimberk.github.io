@@ -1,6 +1,12 @@
 ---
 ---
 
+{% if site.paginate %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
