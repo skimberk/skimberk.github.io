@@ -1,4 +1,6 @@
 title: Sebastian Kimberk
 description: My personal website
 
+permalink: /blog/:title
+
 theme: minima
