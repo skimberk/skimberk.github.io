@@ -1,62 +1,47 @@
 ---
 ---
 
-sebastian (oooh, with rainbows)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Sebastian Kimberk</title>
 
-<div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  {{ content }}
+  <script src="https://use.typekit.net/vel4bvl.js"></script>
+  <script>try{Typekit.load({ async: true });}catch(e){}</script>
 
-
-  {% if site.paginate %}
-    {% assign posts = paginator.posts %}
-  {% else %}
-    {% assign posts = site.posts %}
-  {% endif %}
-
-
-  {%- if posts.size > 0 -%}
-    {%- if page.list_title -%}
-      <h2 class="post-list-heading">{{ page.list_title }}</h2>
-    {%- endif -%}
-    <ul class="post-list">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {%- for post in posts -%}
-      <li>
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
+  <link rel="stylesheet" href="{{ "/assets/home/styles.css" | relative_url }}">
+</head>
+<body>
+  <div class="sebastian"><span>sebastian</span></div>
+  <div class="container">
+    <h1>About me:</h1>
+    <ul>
+      <li>Full name: Sebastian Kimberk</li>
+      <li>Location: Cambridge, MA</li>
+      <li>Likes: Hiking &amp; Programming</li>
+      <li>Github: <a href="https://github.com/skimberk" target="_blank">https://github.com/skimberk</a></li>
     </ul>
 
-    {% if site.paginate %}
-      <div class="pager">
-        <ul class="pagination">
-        {%- if paginator.previous_page %}
-          <li><a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page }}</a></li>
-        {%- else %}
-          <li><div class="pager-edge">•</div></li>
-        {%- endif %}
-          <li><div class="current-page">{{ paginator.page }}</div></li>
-        {%- if paginator.next_page %}
-          <li><a href="{{ paginator.next_page_path | relative_url }}" class="next-page">{{ paginator.next_page }}</a></li>
-        {%- else %}
-          <li><div class="pager-edge">•</div></li>
-        {%- endif %}
-        </ul>
-      </div>
-    {%- endif %}
+    <h1>Blog posts:</h1>
+    <ul>
+      <li><a href="./blog/repairing-rollerblades">Repairing Composite Rollerblade Cuff</a></li>
+      <li><a href="./blog/pruning-of-an-oak-tree">The Pruning of an Oak Tree</a></li>
+      <li><a href="./blog/ascent-of-mt-whitney">Our Ascent of Mt. Whitney</a></li>
+      <li><a href="./blog/buckets-for-john-muir-trail">Buckets (for John Muir Trail)</a></li>
+      <!-- <li><a href="javascript:void(0)" target="_blank">Adventures in Costa Rica</a></li>
+      <li><a href="javascript:void(0)" target="_blank">Finite State Automata</a></li>
+      <li><a href="javascript:void(0)" target="_blank">Building a Bicycle</a></li>
+      <li><a href="javascript:void(0)" target="_blank">Syringe Art</a></li>
+      <li><a href="javascript:void(0)" target="_blank">Learning to Knit</a></li>
+      <li><a href="javascript:void(0)" target="_blank">Playing with Rainbows</a></li>
+      <li><a href="javascript:void(0)" target="_blank">Staying on Task</a></li>
+      <li><a href="javascript:void(0)" target="_blank">Starting a Blog</a></li> -->
+    </ul>
+  </div>
 
-  {%- endif -%}
-
-</div>
+  <script src="{{ "/assets/home/main.js" | relative_url }}"></script>
+</body>
+</html>
