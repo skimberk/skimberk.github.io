@@ -2,7 +2,7 @@
 title: "The Pruning of an Oak Tree"
 ---
 
-![Climbing the Oak Tree](./public/hanging-in-tree.jpg)
+![Climbing the Oak Tree](/assets/2018-11-27-pruning-of-an-oak-tree/hanging-in-tree.jpg)
 
 In the northeast corner of my father's yard resides an oak tree. It's a massive, ancient thing, my outreached arms barely able to make it half-way around its gnarled trunk. Its canopy is crisscrossed with steel cables, bolted deep into the thickest branches, helping the tree maintain its composure as it ages. For one branch, however, its cable wasn't enough. Jutting from the left of the tree, spanning the length of a telephone-pole laid on its side, the branch was a miracle of natural engineering. At its midpoint was attached a single glistening steel cable, disappearing high into the tree, and at its base was an ever-growing crack.
 
@@ -22,7 +22,7 @@ I eventually arrived at a branch that seemed especially taught, wedged tightly a
 
 My ears rang and I hung in silence. Adrenaline coursed through my veins. My hands were shaking, still holding the now-extinguished chainsaw. I wiggled the left side of my body, making sure limbs were still attached, still moving the way they were supposed to. Comforted by positive results, I did my best to relax.
 
-![Fallen Branch](./public/fallen-branch.jpg)
+![Fallen Branch](/assets/2018-11-27-pruning-of-an-oak-tree/fallen-branch.jpg)
 
 It turns out the seemingly insignificant branch was supporting a non-trivial amount of the bigger branch's weight, and when I began to cut it, the forces acting on the branch fell out of equilibrium and it thundered down to a lower, more permanent resting place. As it did so, it twisted, hitting me with one of its remaining appendages.
 
