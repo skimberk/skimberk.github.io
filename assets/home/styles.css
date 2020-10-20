@@ -58,6 +58,7 @@ a:hover {
                                         #3498db 71%, #3498db 86%,
                                         #9b59b6 86%);
   background-size: 80px auto;
+  text-shadow: 1px 1px 1px #000;
 }
 
 ul {
