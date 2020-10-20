@@ -1,7 +1,7 @@
 ---
 layout: home
 title: ""
-description: "A web developer/software engineer/person who likes to make things who recently graduated from college and is getting ready to head out into the real world."
+description: "A web developer/software engineer/person who likes to make things. Recently graduated from college and is getting ready to head out into the real world."
 ---
 
 # About me:
@@ -10,5 +10,5 @@ description: "A web developer/software engineer/person who likes to make things 
 - *Current location:* Cambridge, MA
 - *Future location:* Seattle, WA
 - *Professionally:* Writes software for a tech company
-- *Amateurishly:* Experiments with electronics and builds kiln
+- *Amateurishly:* Experiments with electronics and builds kilns
 - *Github:* <https://github.com/skimberk>
