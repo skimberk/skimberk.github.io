@@ -22,7 +22,7 @@
   <div class="container">
     {{ content }}
 
-    <h1>Blog posts: <a href="{{ post.url | relative_url }}" title="View all blog posts" class="view-all">(view all)</a></h1>
+    <h1>Blog posts: <a href="{{ "/blog/" | relative_url }}" title="View all blog posts" class="view-all">(view all)</a></h1>
     <ul>
       {%- for post in site.posts -%}
       <li><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></li>
