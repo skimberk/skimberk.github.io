@@ -8,5 +8,5 @@ description: "A web developer/software engineer/person who likes to make things 
 
 - Full name: Sebastian Kimberk
 - Location: Cambridge, MA
-- Likes: Hiking & Programming
+- Likes: Hiking, Programming, Electronics, Building Kilns, etc..
 - Github: https://github.com/skimberk
