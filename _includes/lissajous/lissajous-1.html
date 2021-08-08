@@ -1,0 +1,45 @@
+<canvas id="lissajous-1-canvas" style="max-width: 100%;"></canvas>
+<script type="text/javascript">
+	(function() {
+	'use strict';
+
+	let canvas = document.getElementById('lissajous-1-canvas');
+
+	let width = 800;
+	let height = 600;
+
+	canvas.width = width;
+	canvas.height = height;
+
+	let ctx = canvas.getContext('2d', {alpha: false});
+
+	let t = 0;
+	let k = 0;
+
+	let animateFunc = () => {
+		requestAnimationFrame(animateFunc);
+
+		if (k === 5) {
+			k = 0;
+			ctx.fillStyle = "rgba(0, 0, 0, 0.05";
+			ctx.fillRect(0, 0, width, height);
+		}
+		k++;
+		
+
+		for (let i = 0; i < 10; i++) {
+			let x = width/2 + width/2 * Math.sin(t + 0.1);
+			let y = height/2 + height/2 * Math.sin((t/4000 + 1) * t);
+
+			t += 0.01;
+
+			ctx.beginPath();
+			ctx.arc(x, y, 5, 0, 2 * Math.PI, false);
+			ctx.fillStyle = "rgba(255, 0, 0, 1)";
+			ctx.fill();
+		}
+	};
+
+	requestAnimationFrame(animateFunc);
+})(this);
+</script>
