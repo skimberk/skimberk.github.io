@@ -1,0 +1,75 @@
+<canvas id="lissajous-2-canvas" style="max-width: 100%;"></canvas>
+<script type="text/javascript">
+	(function() {
+	'use strict';
+
+	let canvas = document.getElementById('lissajous-2-canvas');
+
+	let width = 800;
+	let height = 800;
+
+	canvas.width = width;
+	canvas.height = height;
+
+	let ctx = canvas.getContext('2d', {alpha: false});
+
+	let colors = ['#2ecc71', // Green
+				  '#1abc9c', // Turquoise
+				  '#3498db', // Blue
+				  '#9b59b6', // Purple
+				  '#e74c3c', // Red
+				  '#e67e22', // Orange
+				  '#f1c40f'];// Yellow
+
+	let t = 0;
+
+	let animateFunc = () => {
+		requestAnimationFrame(animateFunc);
+
+		t += 0.015;
+		if (t > 2 * Math.PI) {
+			t -= 2 * Math.PI;
+		}
+
+		ctx.fillStyle = "#000";
+		ctx.fillRect(0, 0, 100, height);
+		ctx.fillRect(0, 0, width, 100);
+
+		ctx.fillStyle = "rgba(0, 0, 0, 0.01)";
+		ctx.fillRect(100, 100, width, height);
+
+		for (let i = 0; i < 8; i++) {
+			for (let j = 0; j < 8; j++) {
+				if (i === 0 && j === 0) {
+					continue;
+				}
+
+				let x = 50 + 100 * i;
+				let y = 50 + 100 * j;
+				let r = 25;
+
+				if (i === 0 || j === 0) {
+					let color = colors[i + j - 1];
+					ctx.beginPath();
+					ctx.arc(x, y, r, 0, 2 * Math.PI, false);
+					ctx.strokeStyle = color;
+					ctx.lineWidth = 2;
+					ctx.stroke();
+
+					ctx.beginPath();
+					ctx.arc(x - r * Math.sin((i + j) * t), y - r * Math.cos((i + j) * t), 2, 0, 2 * Math.PI, false);
+					ctx.fillStyle = "#fff";
+					ctx.fill();
+				} else {
+					ctx.beginPath();
+					ctx.arc(x - r * Math.sin(i * t), y - r * Math.cos(j * t), 1.5, 0, 2 * Math.PI, false);
+					ctx.fillStyle = "#fff";
+					ctx.fill();
+				}
+			}
+		}
+	};
+
+	requestAnimationFrame(animateFunc);
+})(this);
+</script>
