@@ -5,7 +5,7 @@ description: "Replacing broken rear window glass on my 2003 Ford Focus Wagon wit
 
 My car (a 2003 Ford Focus Wagon) got broken into recently and I refused to pay the $550 I was quoted to replace the rear windshield, instead opting to pull out a replacement from another Ford Focus Wagon I found at a local junkyard and glue it in myself.
 
-![Broken rear windshield before repair](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_8546.jpg){:loading="lazy"}
+![Broken rear windshield before repair](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_8546.jpg)
 
 The entire process took a really long time, mostly because I did it on the cheap and didn't really have the right tools. The hardest parts were removing the windshield from the junkyard Focus and removing all the broken glass that was still glued onto my car (around the borders where it was glued to the opening in my trunk door). Actually gluing in the replacement was pretty quick and went smoothly.
 
