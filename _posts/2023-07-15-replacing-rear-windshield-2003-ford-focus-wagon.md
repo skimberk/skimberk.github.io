@@ -46,6 +46,10 @@ Removed plastic panels from inside of trunk door. There were a couple screws and
 
 Cut slit through urethane adhesive using box cutter from inside the car, bottom corner of the window. No particular reason for cutting there other than that it was one of the few places were the urethane was easily accessible.
 
+![Aluminum strip](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_1797.jpg){:loading="lazy"}
+
+![Can from which strip was cut](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_1798.jpg){:loading="lazy"}
+
 ![Fishing line threaded through aluminum strip](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_1774.jpg){:loading="lazy"}
 
 Threaded braided Spectra fishing line through hole in aluminum can strip (see the **Tools I used** section above for more info on these).
@@ -82,9 +86,15 @@ This process took several hours and was a massive pain in the ass. There were se
 
 This part also took a really long time, and again this could have been avoided if I had just bought better tools. Do NOT do what I did and use a wimpy little plastic paint scraper. Get some heavy duty nylon chisel. I avoided using anything metal as I didn't want to scratch my car's paint.
 
+![Working to remove broken glass from my trunk door](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_1506.jpg){:loading="lazy"}
+
 I pulled off some of the glass fragments with pliars so I had enough access to the underlying urethane to get my scraper under it, then hit my scraper with a hammer. Then continued to hit it for several hours as my plastic scraper slowly broke into pieces and disintegrated before my eyes. So please *please* **please** use something heavier duty that is meant to be hammered but still won't scratch your paint.
 
+![A strip of broken glass](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_1508.jpg){:loading="lazy"}
+
 I also noticed that it was easier to cut through the urethane if the glass on top of it was more broken/loose, so I wacked it with a hammer/pried it up with a screwdriver (wrapped in electrical tape to hopefully avoid scuffing my paint).
+
+![Patches of missing paint](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_1500.jpg){:loading="lazy"}
 
 I did end up pulling up a bunch of fragments of my car's paint, so I covered these with primer in the next step. I applied the primer with a very heavy hand as I was scared I'd miss a scratch and my hard work would be ruined by rust.
 
@@ -94,27 +104,61 @@ I trimmed down the remaining urethane to a thin layer using the razor blade scra
 
 I washed the inside and outside of the replacement windshield with a hose and some dish detergent. It was really dirty. I scrubbed it with paper towels until they came back clean.
 
+![Nice and clean replacement window](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_1532.jpg){:loading="lazy"}
+
 I scraped off the remaining urethane on the inside of the replacement windshield with the razor blade scraper. I had to be careful to avoid scraping off the paint on the inside of the window too. I scraped off a little by accident. Whatever.
 
 I washed the area on my trunk door where the window would be getting glued, first with water and dish detergent, then just water, and then waited for it to dry. Paper towels left a lot of lint, maybe shop towels would work better?
 
+![Practicing placing the window](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_1513.jpg){:loading="lazy"}
+
+![Pieces of tape for making sure window is aligned](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_1532.jpg){:loading="lazy"}
+
 I practiced placing the window on the frame where it would be getting glued a few times, just to make sure I knew exactly where it was going and so I wouldn't screw it up when there was glue involved. I placed a four pieces of tape, two on the top of the window and two of the bottom on each side, so that I would have some guides for how the window should be aligned. I placed the tape between the window and frame, then cut along the gap with my box cutter.
+
+![Primer over scratches/spots/adhering surfaces](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_1520.jpg){:loading="lazy"}
+
+![Sika Primer-207 AGR](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_1515.jpg){:loading="lazy"}
 
 I applied my urethane primer (Sika Primer-207 AGR) over any scratches I'd made on my trunk door (as well as over the several large spots where I'd just pulled off the paint) and anywhere I though urethane might adhere that wasn't already covered with a thin layer of urethane. I did NOT apply the primer on the window/glass itself, just the door.
 
+![Sika Aktivator-PRO](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_1528.jpg){:loading="lazy"}
+
 I applied my activator (Sika Aktivator-PRO) along the inside of the window where the urethane would be adhering.
+
+![Sika Sikaflex P2G warming up](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_1541.jpg){:loading="lazy"}
 
 Warmed up my auto glass urethane (Sika Sikaflex P2G) a bit on my radiator until it was slightly warm to the touch so it would dispense more easily.
 
+![Cut plastic tip](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_1536.jpg){:loading="lazy"}
+
 Cut out the plastic tip of the urethane tube along the embossed lines. Essentially a circle with a triangle. See pictures.
+
+![Hole in tip of urethane tube](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_1546.jpg){:loading="lazy"}
 
 Poked hole in end of urethane tube.
 
+![Plastic tip attached to tube](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_1547.jpg){:loading="lazy"}
+
 Dispensed urethane by keeping tip perpendicular to the surface and pressing with a bit of force while slowly dispensing and moving forward. The triangle cut out from the tip trailed behind, extruding a tall triangle of urethane facing out from the window. Required a bit of practice to get the speed and rate of dispensing right. Urethane was very thick, so the triangle stayed straight even though the window frame was at a steep angle.
+
+![Dispensed urethane](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_1553.jpg){:loading="lazy"}
+
+![Dispensed urethane](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_1554.jpg){:loading="lazy"}
+
+![Dispensed urethane junction before mixing](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_1556.jpg){:loading="lazy"}
+
+![Dispensed urethane junction after mixing](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_1558.jpg){:loading="lazy"}
 
 Dispensed urethane around entire window, trying to follow the thin layer of urethane left over from the previous window. Once I'd made it around the entire window I overlapped the urethane by a bit and mixed them together a bit with a stick. See pictures.
 
+![Placing the window on the glue](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_1564.jpg){:loading="lazy"}
+
+![Trunk open so the window remains stable](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_1573.jpg){:loading="lazy"}
+
 I slowly and carefully picked up the window and, using the suction cups, placed it on the glue. I guided myself with the pieces of tape I'd placed earlier. Once I was sure the window was aligned correctly I pushed down on it with a LOT of force. The urethane was extremely thick so it took a lot of pressure against the window to make sure it was all the way down and compressed. I slowly worked my way around the window, pushing down on it with my hands.
+
+![Tape to prevent window from sagging](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_1583.jpg){:loading="lazy"}
 
 I put some tape from the top of the window to the top of my trunk door to keep the window from shifting down from its own weight as the urethane dried. The urethane was extremely thick and viscous so I wasn't too worried about it shifting/coming off otherwise.
 
