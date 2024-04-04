@@ -104,7 +104,7 @@ I trimmed down the remaining urethane to a thin layer using the razor blade scra
 
 I washed the inside and outside of the replacement windshield with a hose and some dish detergent. It was really dirty. I scrubbed it with paper towels until they came back clean.
 
-![Nice and clean replacement window](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_1532.jpg){:loading="lazy"}
+![Nice and clean replacement window](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_1531.jpg){:loading="lazy"}
 
 I scraped off the remaining urethane on the inside of the replacement windshield with the razor blade scraper. I had to be careful to avoid scraping off the paint on the inside of the window too. I scraped off a little by accident. Whatever.
 
