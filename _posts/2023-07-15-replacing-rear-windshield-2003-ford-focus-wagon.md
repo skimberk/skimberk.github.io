@@ -5,9 +5,9 @@ description: "Replacing broken rear window glass on my 2003 Ford Focus Wagon wit
 
 My car (a 2003 Ford Focus Wagon) got broken into recently and I refused to pay the $550 I was quoted to replace the rear windshield, instead opting to pull out a replacement from another Ford Focus Wagon I found at a local junkyard and glue it in myself.
 
-The entire process took a really long time, mostly because I did it on the cheap and didn't really have the right tools. The hardest parts were removing the windshield from the junkyard Focus and removing all the broken glass that was still glued onto my car (around the borders where it was glued to the opening in my trunk door). Actually gluing in the replacement was pretty quick and went smoothly.
-
 ![Broken rear windshield before repair](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_8546.jpg){:loading="lazy"}
+
+The entire process took a really long time, mostly because I did it on the cheap and didn't really have the right tools. The hardest parts were removing the windshield from the junkyard Focus and removing all the broken glass that was still glued onto my car (around the borders where it was glued to the opening in my trunk door). Actually gluing in the replacement was pretty quick and went smoothly.
 
 **Disclaimer: I am not a professional and I do not know what I am doing. This is my only experience replacing auto glass and there are definitely better and safer ways of doing it. I am only posting to document what I did, not to serve as any kind of authoritative guide. Follow these steps at your own risk.**
 
@@ -38,25 +38,45 @@ The entire process took a really long time, mostly because I did it on the cheap
 
 #### Removal of junkyard rear windshield:
 
+![Inside of trunk door with plastic panels removed](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_1771.jpg){:loading="lazy"}
+
 Removed plastic panels from inside of trunk door. There were a couple screws and a couple of plastic fasteners that required some careful maneuvering to disconnect without breaking. Although I guess this was a junkyard car so some broken fasteners would be ok.
+
+![Aluminum can strip slid through slit](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_1762.jpg){:loading="lazy"}
 
 Cut slit through urethane adhesive using box cutter from inside the car, bottom corner of the window. No particular reason for cutting there other than that it was one of the few places were the urethane was easily accessible.
 
+![Fishing line threaded through aluminum strip](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_1774.jpg){:loading="lazy"}
+
 Threaded braided Spectra fishing line through hole in aluminum can strip (see the **Tools I used** section above for more info on these).
+
+![Box of fishing line](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_1775.jpg){:loading="lazy"}
 
 Lubricated the aluminum strip with some spit and slid it through the slit I'd cut out with the box cutter. I messed this up a bunch of times and bent a bunch of aluminum strips, and once a strip was bent it was no longer able to apply any force so I ended up cutting a bunch of strips. Originally I'd tried sliding them through without any kind of lubrication but this didn't really work. Spit worked for me, I'm sure some other kind of lubricant might work even better!
 
+![Fishing line pulled through urethane into car](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_1777.jpg){:loading="lazy"}
+
 Fished the aluminum strip out from the other side of the window and pulled it through. I used a sewing pin to guide the aluminum strip out past the lip below the window. Now I had the fishing line threaded through the urethane!
 
+![Fishing line wrapped around pliars](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_1785.jpg){:loading="lazy"}
+
 Wrapped each end of the fishing line around a tool so I could hold it and apply force without cutting myself. I wrapped one end around the handle of some pliars and the other end around a screwdriver. The rubber/plastic on the tools ended up full of grooves from the fishing line. Oh well, they were sacrificed for the greater good...
+
+![Fishing line threaded through urethane](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_1779.jpg){:loading="lazy"}
 
 With one hand inside and my other hand outside, I pulled on each end of the fishing line (via the tool it was wrapped around) to slice through the urethane adhesive. I pulled the line back and forth a bit in a sawing motion which helped cut. The line broke/snapped/tore more times than I can count, and I was continuously having to rethread new pieces of fishing line. I think just having to constantly rethread was the most time consuming part of removing the windshield. Some thicker/stronger line would have probably improved this process.
 
 I disconnected the connectors for the window defrosting heating elements.
 
+![Potential metal trunk window obstacles](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_1778.jpg){:loading="lazy"}
+
 There were some awkward metal edges along the inside of the window which kept tearing my line which took me a while to notice. I had to guide the fishing line behind these edges using my credit card.
 
+![Window partially removed](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_1782.jpg){:loading="lazy"}
+
 This process took several hours and was a massive pain in the ass. There were several points where progress seemed to stop and the fishing line just kept snapping. I'd switch to trying to cut in the other direction, or double check that the line wasn't getting caught on any metal lips. In the end, after a lot of sweat and blood and tears, the windshield was free! Carrying it out from the junkyard and transporting it back home were terrifying as I was afraid I'd break the window and have to start over again.
+
+![Window fully removed](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_1786.jpg){:loading="lazy"}
 
 #### Removal of remaining glass and urethane on my car:
 
