@@ -7,6 +7,8 @@ My car (a 2003 Ford Focus Wagon) got broken into recently and I refused to pay t
 
 The entire process took a really long time, mostly because I did it on the cheap and didn't really have the right tools. The hardest parts were removing the windshield from the junkyard Focus and removing all the broken glass that was still glued onto my car (around the borders where it was glued to the opening in my trunk door). Actually gluing in the replacement was pretty quick and went smoothly.
 
+![Broken rear windshield before repair](/assets/2023-07-15-replacing-rear-windshield-2003-ford-focus-wagon/IMG_8546.jpg){:loading="lazy"}
+
 **Disclaimer: I am not a professional and I do not know what I am doing. This is my only experience replacing auto glass and there are definitely better and safer ways of doing it. I am only posting to document what I did, not to serve as any kind of authoritative guide. Follow these steps at your own risk.**
 
 ### Tools I used (with potential improvements if I were to do it again):
